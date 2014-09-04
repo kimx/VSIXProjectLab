@@ -1,0 +1,3 @@
+C:\Users\Kim\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kim\VSIXProjectLab\1.0\\extension.vsixmanifest
+C:\Users\Kim\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kim\VSIXProjectLab\1.0\CSharp\Kim\\kimhello.snippet
+C:\Users\Kim\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Kim\VSIXProjectLab\1.0\\registry.pkgdef

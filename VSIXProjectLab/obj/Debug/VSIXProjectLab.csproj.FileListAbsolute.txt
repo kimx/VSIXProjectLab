@@ -1,0 +1,6 @@
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\bin\Debug\registry.pkgdef
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\bin\Debug\VSIXProjectLab.vsix
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\bin\Debug\extension.vsixmanifest
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\obj\Debug\VSIXProjectLab.dll
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\obj\Debug\VSIXProjectLab.pdb
+E:\GitHub\VSIXProjectLab\VSIXProjectLab\obj\Debug\extension.vsixmanifest
